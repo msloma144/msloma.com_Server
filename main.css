@@ -29,7 +29,8 @@ body {
     padding-top: 20px;
     margin-left: 10%;
     width: 80%;
-    color: white;
-    background-color: gray;
-    opacity: 0.5;
+    color:white;
+    text-decoration: none;
+    /*Change transparency with rgb and opacity value*/
+    background: rgba(140,140,140,.5);
 }
